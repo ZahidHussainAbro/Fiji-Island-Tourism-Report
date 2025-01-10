@@ -22,7 +22,7 @@ Specifically:
 
 
 𝗔𝗰𝗰𝗼𝗺𝗺𝗼𝗱𝗮𝘁𝗶𝗼𝗻 𝗢𝗰𝗰𝘂𝗽𝗮𝗻𝗰𝘆 𝗯𝘆 𝘆𝗲𝗮𝗿𝗹𝘆 𝗰𝗵𝗮𝗻𝗴𝗲: from 2000-2019, we can see occupancy increase in 2004-2005 just declined then from 2009 it slightly increased and in 2015 a little push then drastically increased.
-It's basically a comparison between bed night occupancy and room night occupancy,
+It's basically a comparison between bed night occupancy and room night occupancy.
 Note: here occupancy has a large contribution by staying in hotels and other residencies etc.
 
 𝗧𝗼𝘂𝗿𝗶𝘀𝘁𝘀 𝗯𝘆 𝗰𝗼𝗻𝘁𝗶𝗻𝗲𝗻𝘁: We can see Australia, New Zealand and USA are in large number of tourists who visited the most fiji island which gives clear picture to promote more and create new adventures or work more on existing areas.
