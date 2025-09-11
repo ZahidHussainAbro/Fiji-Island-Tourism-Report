@@ -15,7 +15,7 @@ Specifically:
 
 
 ## Data and Tools
-This project was given by D2-Analytics (a sister company of Bloom Consulting). There was secondary data given, but primary data was taken from multiple sources. Applied data formatting, cleaning, validating, and statistical analysis before visualization. The Data Tool used is Excel. With due fact, the Data is limited due to unavailability.
+This project was given by D2-Analytics (a sister company of Bloom Consulting). There was secondary data given, but primary data was taken from multiple sources. Applied data formatting, cleaning, validating, and statistical analysis before visualization. The Data Tool used is Excel. With due fact, the Data is limited due to unavailability. Similarly, Used Pivot table also for aggregations and visualizations.
 
 
 ## Results and Findings
@@ -59,4 +59,12 @@ In 2022 arrival number is slightly high compared to departures, but overall comp
 - Total arrivals and departures from 1999-2022 have 322,318 difference of which is in total, but yearly we can see an increase from 2002 to 2019, then a decrease in 2020 and 2021, which needs proper evaluation or root cause analysis.
 
 
-𝗢𝘃𝗲𝗿𝗮𝗹𝗹: Due to the no enough primary data, it was collected from different sources and we figured out how the Fiji strategy and branding impacted Fiiji tourism by understanding tourist arrivals, departures, and GDP, from which continent highest number of tourists, in which area there is potential to work on as branding or where should we invest more as per current or last performance either public or private branding or through more effective marketing channels and target groups where. W should spend on campaigns where target countries have a large number of visitors. We can also improve and create innovative solutions for attracting more tourists. 
+𝗢𝘃𝗲𝗿𝗮𝗹𝗹: Due to the no enough primary data, it was collected from different sources and we figured out how the Fiji strategy and branding impacted Fiiji tourism by understanding tourist arrivals, departures, and GDP, from which continent highest number of tourists, in which area there is potential to work on as branding or where should we invest more as per current or last performance either public or private branding or through more effective marketing channels and target groups where. W should spend on campaigns where target countries have a large number of visitors. We can also improve and create innovative solutions for 
+attracting more tourists. 
+
+## Excel Sheet Tasks:
+Here I used query to split some regions by formulas and then performed calculations using excel std, var, mean etc. Additionally, conditional formatting using formula for increase and decrease No. of busineses with Compound Annual Growth Rate (CAGR) etc.
+
+<img width="1602" height="852" alt="Screenshot 2025-09-03 120936" src="https://github.com/user-attachments/assets/6b6ce2d4-6caf-4836-bee1-4e091e524b4a" />
+
+
