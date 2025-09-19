@@ -15,7 +15,7 @@ Specifically:
 
 
 ## Data and Tools
-This project was given by D2-Analytics (a sister company of Bloom Consulting). There was secondary data given, but primary data was taken from multiple sources. Applied data formatting, cleaning, validating, and statistical analysis before visualization. The Data Tool used is Excel. With due fact, the Data is limited due to unavailability. Similarly, Used Pivot table also for aggregations and visualizations.
+This project was given by D2-Analytics (a sister company of Bloom Consulting). There was secondary data given, but primary data was taken from multiple sources. Applied data formatting, cleaning, validating, and statistical analysis before visualization. The Data Tool used is Excel. With due fact, the Data is limited due to unavailability. Similarly, a Used Pivot table is also for aggregations and visualizations.
 
 
 ## Results and Findings
@@ -52,14 +52,14 @@ Note: here, occupancy has a large contribution from staying in hotels and other 
 There can be a discount or any other program for visitors from these countries.
 
 - Accommodation occupancy has slightly increased from 2016 to 2019, and needs 
-In 2022 arrival number is slightly high compared to departures, but overall comparison with other years shows a very small number of visitors, which is a negative rate of arrivals.
+In 2022, arrival number is slightly higher compared to departures, but overall comparison with other years shows a very small number of visitors, which is a negative rate of arrivals.
 
 - Also in 2022 as compare to previous years, visitors stayed more than departed.
 
 - Total arrivals and departures from 1999-2022 have 322,318 difference of which is in total, but yearly we can see an increase from 2002 to 2019, then a decrease in 2020 and 2021, which needs proper evaluation or root cause analysis.
 
 
-𝗢𝘃𝗲𝗿𝗮𝗹𝗹: Due to the no enough primary data, it was collected from different sources and we figured out how the Fiji strategy and branding impacted Fiiji tourism by understanding tourist arrivals, departures, and GDP, from which continent highest number of tourists, in which area there is potential to work on as branding or where should we invest more as per current or last performance either public or private branding or through more effective marketing channels and target groups where. W should spend on campaigns where target countries have a large number of visitors. We can also improve and create innovative solutions for 
+𝗢𝘃𝗲𝗿𝗮𝗹𝗹: Due to the no enough primary data, it was collected from different sources and we figured out how the Fiji strategy and branding impacted Fiiji tourism by understanding tourist arrivals, departures, and GDP, from which continent highest number of tourists, in which area there is potential to work on as branding or where should we invest more as per current or last performance either public or private branding or through more effective marketing channels and target groups where. We should spend on campaigns where target countries have a large number of visitors. We can also improve and create innovative solutions for 
 attracting more tourists. 
 
 ## Excel Sheet Tasks:
