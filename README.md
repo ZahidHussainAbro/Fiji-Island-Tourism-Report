@@ -1,6 +1,6 @@
 # Fiji-Island-Tourism-Report
 Fiji Island Tourism Excel Dashboard
-![Screenshot 2025-01-03 163904](https://github.com/user-attachments/assets/cb23eacd-8fb8-459e-81ee-6406a9997d8b)
+<img width="1512" height="776" alt="Screenshot 2025-10-07 130359" src="https://github.com/user-attachments/assets/fe5cf7a5-91a7-4c88-bdf8-449830267e7b" />
 
 
 ## Background
